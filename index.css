@@ -334,13 +334,13 @@ justify-content: space-evenly;}
   }
 
 
-  .section1
+  /* .section1
 
   .section1 p img {
     /* width: 50vh;
     height: 30vh;
     justify-content: center; */
-  }
+  } */
 
 
   .section1 img {
@@ -355,4 +355,4 @@ justify-content: space-evenly;}
   }
 
 
-}
+
